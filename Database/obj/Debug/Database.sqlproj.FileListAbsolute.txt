@@ -1,0 +1,10 @@
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\bin\Debug\Database.dacpac
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\bin\Debug\Database.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\bin\Debug\Database.pdb
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\obj\Debug\Model.xml
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\obj\Debug\refactor.xml
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\obj\Debug\postdeploy.sql
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\obj\Debug\predeploy.sql
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\obj\Debug\Database.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\obj\Debug\Database.pdb

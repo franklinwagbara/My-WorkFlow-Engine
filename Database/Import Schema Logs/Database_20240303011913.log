@@ -1,0 +1,84 @@
+03/03/2024 2:19:13 pm	This log contains information about the import schema operation into project 'Database' on computer 'LAPTOP-N5F7SSUF' by user 'BrandOneTech'.
+03/03/2024 2:19:15 pm	Import of database schema has started.
+03/03/2024 2:19:24 pm	Gathering database credentials
+03/03/2024 2:19:24 pm	Gathering database options
+03/03/2024 2:19:24 pm	Gathering generic database scoped configuration option
+03/03/2024 2:19:24 pm	Gathering users
+03/03/2024 2:19:24 pm	Gathering roles
+03/03/2024 2:19:24 pm	Gathering application roles
+03/03/2024 2:19:24 pm	Gathering role memberships
+03/03/2024 2:19:24 pm	Gathering filegroups
+03/03/2024 2:19:24 pm	Gathering full-text catalogs
+03/03/2024 2:19:24 pm	Gathering assemblies
+03/03/2024 2:19:24 pm	Gathering certificates
+03/03/2024 2:19:24 pm	Gathering asymmetric keys
+03/03/2024 2:19:24 pm	Gathering symmetric keys
+03/03/2024 2:19:24 pm	Gathering encrypted symmetric keys
+03/03/2024 2:19:24 pm	Gathering schemas
+03/03/2024 2:19:24 pm	Gathering XML schema collections
+03/03/2024 2:19:24 pm	Gathering user-defined data types
+03/03/2024 2:19:24 pm	Gathering user-defined types
+03/03/2024 2:19:24 pm	Gathering table types
+03/03/2024 2:19:24 pm	Gathering unique keys for table types
+03/03/2024 2:19:24 pm	Gathering primary keys for table types
+03/03/2024 2:19:24 pm	Gathering indexes for table types
+03/03/2024 2:19:24 pm	Gathering check constraints for table types
+03/03/2024 2:19:24 pm	Gathering default constraints for table types
+03/03/2024 2:19:24 pm	Gathering partition functions
+03/03/2024 2:19:24 pm	Gathering partition schemes
+03/03/2024 2:19:30 pm	Gathering functions
+03/03/2024 2:19:30 pm	Gathering encrypted functions
+03/03/2024 2:19:30 pm	Gathering aggregates
+03/03/2024 2:19:30 pm	Gathering procedures
+03/03/2024 2:19:30 pm	Gathering encrypted procedures
+03/03/2024 2:19:53 pm	Gathering tables
+03/03/2024 2:19:53 pm	Gathering primary keys
+03/03/2024 2:19:53 pm	Gathering unique constraints
+03/03/2024 2:19:53 pm	Gathering foreign keys
+03/03/2024 2:19:53 pm	Gathering default constraints
+03/03/2024 2:19:53 pm	Gathering check constraints
+03/03/2024 2:19:53 pm	Gathering views
+03/03/2024 2:19:53 pm	Gathering encrypted views
+03/03/2024 2:19:53 pm	Gathering indexes
+03/03/2024 2:19:53 pm	Gathering statistics
+03/03/2024 2:19:53 pm	Gathering full-text index stoplists
+03/03/2024 2:19:53 pm	Gathering search property lists
+03/03/2024 2:19:53 pm	Gathering search properties
+03/03/2024 2:19:53 pm	Gathering full-text indexes
+03/03/2024 2:19:53 pm	Gathering column store indexes
+03/03/2024 2:19:53 pm	Gathering spatial indexes
+03/03/2024 2:19:53 pm	Gathering XML indexes
+03/03/2024 2:19:53 pm	Gathering Selective XML indexes
+03/03/2024 2:19:54 pm	Gathering encrypted triggers
+03/03/2024 2:19:54 pm	Gathering triggers
+03/03/2024 2:19:54 pm	Gathering encrypted and clr ddl triggers
+03/03/2024 2:19:54 pm	Gathering ddl triggers
+03/03/2024 2:19:54 pm	Gathering synonyms
+03/03/2024 2:19:54 pm	Gathering defaults
+03/03/2024 2:19:54 pm	Gathering data constraint uddt bindings
+03/03/2024 2:19:54 pm	Gathering rules
+03/03/2024 2:19:54 pm	Gathering data constraint uddt bindings
+03/03/2024 2:19:54 pm	Gathering message types
+03/03/2024 2:19:54 pm	Gathering queues
+03/03/2024 2:19:54 pm	Gathering contracts
+03/03/2024 2:19:54 pm	Gathering services
+03/03/2024 2:19:54 pm	Gathering event notifications
+03/03/2024 2:19:54 pm	Gathering remote service bindings
+03/03/2024 2:19:54 pm	Gathering broker priorities
+03/03/2024 2:19:54 pm	Gathering signatures
+03/03/2024 2:19:54 pm	Gathering data compression options
+03/03/2024 2:19:54 pm	Gathering sequence types
+03/03/2024 2:19:54 pm	Gathering security policies
+03/03/2024 2:19:54 pm	Gather column encryption keys
+03/03/2024 2:19:54 pm	Gathering column master keys
+03/03/2024 2:19:54 pm	Gathering external data sources
+03/03/2024 2:19:54 pm	Gathering external file formats
+03/03/2024 2:19:54 pm	Gathering external tables
+03/03/2024 2:19:54 pm	Gathering extended properties
+03/03/2024 2:19:54 pm	Gathering assemblies
+03/03/2024 2:19:54 pm	Gathering credentials
+03/03/2024 2:19:54 pm	Gathering logins
+03/03/2024 2:19:54 pm	Gathering server audits
+03/03/2024 2:19:54 pm	Finished importing database.
+03/03/2024 2:19:54 pm	A summary of the import was saved to the following location: C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\Database\Import Schema Logs\Database_20240303011913.log
+03/03/2024 2:19:54 pm	Click Finish to continue...

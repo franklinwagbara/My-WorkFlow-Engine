@@ -1,0 +1,12 @@
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\BOFWorkFlowEngine.csproj.AssemblyReference.cache
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\BOFWorkFlowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\BOFWorkFlowEngine.AssemblyInfoInputs.cache
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\BOFWorkFlowEngine.AssemblyInfo.cs
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\BOFWorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\bin\Debug\net7.0\BOFWorkFlowEngine.deps.json
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\bin\Debug\net7.0\BOFWorkFlowEngine.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\bin\Debug\net7.0\BOFWorkFlowEngine.pdb
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\BOFWorkFlowEngine.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\refint\BOFWorkFlowEngine.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\BOFWorkFlowEngine.pdb
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\BACKEND_TEMPLATE\BOFWorkFlowEngine\obj\Debug\net7.0\ref\BOFWorkFlowEngine.dll

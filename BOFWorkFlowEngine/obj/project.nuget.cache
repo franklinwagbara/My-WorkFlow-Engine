@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNC6munIowUMjKVKJoZfp8GjcCr04LJFF1ktuWV9RpvF0ydpH6HpDFwFPPZehFASyWksv2AjTn/JLYlkDPDzpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\BACKEND_TEMPLATE\\BOFWorkFlowEngine\\BOFWorkFlowEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrandOneTech\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
